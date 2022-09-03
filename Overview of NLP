@@ -19,3 +19,7 @@ lets the computer determine the patterns itself. It also becomes more accurate t
 
 The third approach is the neural network approach. The neural networks will learn important patterns independently. 
 It uses a concept called word embeddings to predict the meaning of a word based on its context.
+
+NLP seems very interesting to me because I want to learn how a machine can understand the complexities of human 
+language. There are plenty of examples in the english language of words that can mean something entirely different
+given different contexts. I would like to learn more about NLP to apply it in my own projects.
