@@ -1,0 +1,16 @@
+Natural Language Processing is a field of study focusing on the interactions between computers and human language. The goal is to give a computer the ability to analyze and categorize information given as human language.
+
+NLP is a subset of Artificial Intelligence. If AI is meant to teach a computer how to act as a human. NLP if focused only on teaching a computer how to understand language like a human.
+
+Natural Language Generation turns non-linguistic data into a human language like english. NLP turns a human language into non-linguistic data.
+
+Some common applications of NLP are: Sentiment analysis, virtual assistants, and text summarization.
+
+There are three approaches to NLP. The first is Rule-based which is the oldest. This system uses a set of rules to classify each word in the text it is analyzing. 
+It is fast when a rule exists for the word. However, if there is no way to categorize the word, it is unable to process it.
+
+The second approach is the machine learning approach. This system uses a large amount of training data to find the most probable meaning of the input text.
+Instead of using rule-based patterns given by programmers, this approach lets the computer determine the patterns itself. It also becomes more accurate the more it is used.
+
+The third approach is the neural network approach. The neural networks will learn important patterns independently. It uses a concept called word embeddings to predict the 
+meaning of a word based on its context.
