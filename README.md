@@ -5,7 +5,7 @@ See Overview of NLP [here](Overview_of_NLP.pdf)
 
 
 ## Assignment 1: Text Processing With Python
-Code is located [here](main.py)
+Code is located [here](https://github.com/kjzarzana/CS-4395/blob/main/main.py)
 
 This program takes in employee account information from a csv file and catches any errors that might be found in the formatting of user IDs and phone numbers. The resulting data is then stored in a dictionary and re-displayed cleanly.
 
