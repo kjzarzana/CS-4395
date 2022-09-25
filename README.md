@@ -4,7 +4,7 @@ See Overview of NLP [here](Overview_of_NLP.pdf)
 
 
 
-## Assignment 1: Text Processing With Python
+## Text Processing With Python
 Code is located [here](https://github.com/kjzarzana/CS-4395/blob/main/Person_Dict/main.py)
 
 This program takes in employee account information from a csv file and catches any errors that might be found in the formatting of user IDs and phone numbers. The resulting data is then stored in a dictionary and re-displayed cleanly.
@@ -16,3 +16,11 @@ Last,First,Middle Initial,ID,Office phone
 Smith,Smitty,S,WH1234,5557771212
 
 In this assignment I learned how to search for and reformat data within a file using regex. Python is a powerful tool for text processing because of it's vast libraries and readability.
+
+## Guessing Game
+Code is located [here](https://github.com/kjzarzana/CS-4395/blob/main/Guessing_Game/main.py)
+
+This program reads in a text file and extracts all the nouns. The fifty most common nouns are then used in a guessing game where the user inputs a character at a time to figure out the word.
+
+This program is run with a filepath as the only argument.
+The file does not need to be formatted. The example I used is a textbook.
