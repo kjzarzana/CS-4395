@@ -25,7 +25,7 @@ This program reads in a text file and extracts all the nouns. The fifty most com
 This program is run with a filepath as the only argument.
 The file does not need to be formatted. The example I used is a textbook.
 
-##N-grams
+## N-grams
 Code is located [here](https://github.com/kjzarzana/CS-4395/blob/main/N-gram/main.py)
 
 This program constructs a basic language model using n-grams of various source texts in different languages. Once the dicitonaries are created, it reads each line of the LangId.test and determines the language of the text. When the model was tested on the 300 lines in LangId.test, it correctly guessed the language 97% of the time.
