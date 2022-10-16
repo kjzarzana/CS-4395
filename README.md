@@ -32,3 +32,6 @@ Narrative about process [here](N-gram/Ngrams.pdf)
 This project was written in collaboration with Liam Leece. This program constructs a basic language model using n-grams of various source texts in different languages. Once the dicitonaries are created, it reads each line of the LangId.test and determines the language of the text. When the model was tested on the 300 lines in LangId.test, it correctly guessed the language 97% of the time.
 
 The pickle program is necessary to create the dictionaries that the main program will use.
+
+## Syntax Parsing
+Document is located [here](SyntaxParsing/Sentence_Parsing.pdf)
