@@ -35,3 +35,9 @@ The pickle program is necessary to create the dictionaries that the main program
 
 ## Syntax Parsing
 Document is located [here](SyntaxParsing/Sentence_Parsing.pdf)
+
+## Adeline Chatbot
+Code is located [here](https://github.com/kjzarzana/CS-4395/blob/main/Adeline-Chatbot/main.py)
+Report is located [here](https://github.com/kjzarzana/CS-4395/blob/main/Adeline-Chatbot/Chatbot%20Report.pdf)
+
+This project was written in collaboration with Liam Leece. This is a chatbot centered around the popular movie, The Princess Bride (1987). Our bot, which we named Adeline, uses a neural network machine learning process to teach itself how to have a conversation with a person. We used key terms and phrases from our knowledge base that was built during our implementation of the web crawler assignment, which scraped the wiki for The Princess Bride and many other websites related to it for frequent words. The program made use of many NLP skills such as lemmatization, text pre-processing, and sentiment analysis.
