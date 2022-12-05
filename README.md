@@ -1,4 +1,3 @@
-theme: minima
 
 # CS-4395
 
