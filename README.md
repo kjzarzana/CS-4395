@@ -44,3 +44,5 @@ This project was written in collaboration with Liam Leece. This is a chatbot cen
 
 ## Text Classification
 Code is located [here](https://github.com/kjzarzana/CS-4395/blob/main/Text-Classification/Text_Classification_Kyle-Zarzana_Liam-Leece.pdf)
+
+This project uses a fake job posting dataset to test the workings of Recurrent Neural Networks and Convolutional Neural Networks.
